@@ -1,12 +1,7 @@
-# Create a README.md file for the user's GitHub repository using pypandoc as required
-
 # Vite React Project
 
 This is a simple React project built using Vite.  
 The project demonstrates a fast and modern frontend development setup using React and Vite.
-
-## 🚀 Live Demo
-https://ctt-vaishnavi.github.io/viteproject/
 
 ## 📌 Features
 - Fast development using Vite
